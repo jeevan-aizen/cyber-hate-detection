@@ -1,0 +1,32 @@
+A Multi Stage Machine Learning and Fuzzy Approach to Cyber Hate Detection
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:05.June.2023
+
+Cyberbullying, fuzzy logic, logistic regression, multinomial Naive Bayes, PSO, VADER.
+
+A_Multi_Stage_Machine_Learning
+
+
+
+a_multi_stage_machine_learning
+
+
+
+cyber_hate_detection
+
+
+0-Cyber Hate
+
+1-Cyberbullying
+
+2-Neutral
+
+
+
+Fid
+tweet
+Prediction
+
+
+
+
